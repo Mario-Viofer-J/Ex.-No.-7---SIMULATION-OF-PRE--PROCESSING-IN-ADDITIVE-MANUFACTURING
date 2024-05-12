@@ -44,7 +44,7 @@
 ![123_3](https://github.com/Sellakumar1987/Ex.-No.-7---SIMULATION-OF-PRE--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/113594316/ebb3a944-eeb0-45e8-9841-d58997840c54)
 
 ## Output:
-![image](https://github.com/Mario-Viofer-J/Ex.-No.-7---SIMULATION-OF-PRE--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/144979232/da8c9a00-0efc-446b-9999-ffceefb273aa)
+![image](https://github.com/Mario-Viofer-J/Ex.-No.-7---SIMULATION-OF-PRE--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/144979232/3652f073-51a3-45b8-8a46-e22fd15f3031)
 
 ### Name: MARIO VIOFER J
 ### Register Number: 212223100032
